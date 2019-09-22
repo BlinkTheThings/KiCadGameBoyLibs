@@ -16,5 +16,6 @@ Files:
  - GameBoy.pretty
 
 Footprints:
- - GAMEBOY_CART_EDGE_1x32_P1.5 - Footprint with the Game Boy cartridge edge and outline.
+ - GAMEBOY_CART_EDGE_1x32_P1.5 - Footprint with the Game Boy cartridge edge.
+ - GAMEBOY_CART_OUTLINE - Footprint with the Game Boy cartridge outline on the Edge.cuts layer.
 
